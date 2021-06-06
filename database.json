@@ -1,0 +1,197 @@
+{
+  "users": [
+    {
+      "login": "spam",
+      "password": "bacon",
+      "id": 1
+    },
+    {
+      "login": "admin",
+      "password": "admin",
+      "id": 2
+    },
+    {
+      "login": "fhjfjdh",
+      "password": "jdkjdkjj",
+      "id": 3
+    },
+    {
+      "login": "fhjfjdh",
+      "password": "jdkjdkjj",
+      "id": 4
+    },
+    {
+      "login": "fhjfjdh",
+      "password": "jdkjdkjj",
+      "id": 5
+    },
+    {
+      "login": "fhjfjdh",
+      "password": "jdkjdkjj",
+      "id": 6
+    },
+    {
+      "login": "fhjfjdh",
+      "password": "jdkjdkjj",
+      "id": 7
+    },
+    {
+      "login": "fhjfjdh",
+      "password": "jdkjdkjj",
+      "id": 8
+    },
+    {
+      "login": "fhjfjdh",
+      "password": "jdkjdkjj",
+      "id": 9
+    },
+    {
+      "login": "fhjfjdh",
+      "password": "jdkjdkjj",
+      "id": 10
+    },
+    {
+      "login": "fhjfjdh",
+      "password": "jdkjdkjj",
+      "id": 11
+    },
+    {
+      "login": "fhjfjdh",
+      "password": "jdkjdkjj",
+      "id": 12
+    },
+    {
+      "login": "fhjfjdh",
+      "password": "jdkjdkjj",
+      "id": 13
+    },
+    {
+      "login": "fhjfjdh",
+      "password": "jdkjdkjj",
+      "id": 14
+    },
+    {
+      "login": "fhjfjdh",
+      "password": "jdkjdkjj",
+      "id": 15
+    },
+    {
+      "login": "fhjfjdh",
+      "password": "jdkjdkjj",
+      "id": 16
+    },
+    {
+      "login": "fhjfjdh",
+      "password": "jdkjdkjj",
+      "id": 17
+    },
+    {
+      "login": "fhjfjdh",
+      "password": "jdkjdkjj",
+      "id": 18
+    }
+  ],
+  "rooms": [
+    {
+      "id": 1,
+      "name": "Single Room",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Suscipit adipiscing bibendum est ultricies integer. Risus in hendrerit gravida rutrum. Tristique et egestas quis ipsum suspendisse ultrices gravida dictum fusce. Dictumst quisque sagittis purus sit amet volutpat consequat mauris. Ac turpis egestas integer eget aliquet. Habitant morbi tristique senectus et netus et malesuada fames ac. Orci sagittis eu volutpat odio. Scelerisque purus semper eget duis at tellus at urna condimentum. Dictum sit amet justo donec enim diam vulputate ut. Proin sagittis nisl rhoncus mattis rhoncus urna neque viverra justo. Sit amet volutpat consequat mauris nunc. Sit amet tellus cras adipiscing enim eu turpis. Quis commodo odio aenean sed adipiscing diam donec adipiscing tristique.",
+      "beds": "1 single bed 🛏️",
+      "guests": "🧑",
+      "price": 170,
+      "img": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/286306520.jpg?k=6bcc062bf7b302fb78fdcae032a972151d0f14500bf26755397fcbfdb2f563c6&o=&hp=1"
+    },
+    {
+      "id": 2,
+      "name": "Double room",
+      "description": "Risus in hendrerit gravida rutrum. Tristique et egestas quis ipsum suspendisse ultrices gravida dictum fusce.",
+      "beds": "1 double bed 🛏️🛏️",
+      "guests": "🧑🧑",
+      "price": 240,
+      "img": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/286306929.jpg?k=3d8a8e4b539008fa7f2a0ba41df00e1680faa5b3bc4689fae3c0627fc0d1694c&o=/"
+    },
+    {
+      "id": 3,
+      "name": "Triple room",
+      "description": "Dictumst quisque sagittis purus sit amet volutpat consequat mauris. Ac turpis egestas integer eget aliquet.",
+      "beds": "1 double and 1 sigle bed 🛏️🛏️🛏️",
+      "guests": "🧑🧑🧑",
+      "price": 290,
+      "img": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/286307195.jpg?k=4a8abc62d301cfb1679b613dbe90810184f94c660194932e9112e813f19eab97&o=&hp=1"
+    },
+    {
+      "id": 4,
+      "name": "Quadruple room",
+      "description": "Habitant morbi tristique senectus et netus et malesuada fames ac. Orci sagittis eu volutpat odio. Scelerisque purus semper eget duis at tellus at urna condimentum",
+      "beds": "2 double beds 🛏️🛏️🛏️🛏️",
+      "guests": "🧑🧑🧑🧑",
+      "price": 340,
+      "img": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/16334144.jpg?k=84c9d838dbdd26aca3b89c81c913a6e10c9102152c1b584e3af8c77276951a4d&o=&hp=1"
+    }
+  ],
+  "treatments": [
+    {
+      "id": 1,
+      "name": "Massage",
+      "description": "Risus in hendrerit gravida rutrum. Tristique et egestas quis ipsum suspendisse ultrices gravida dictum fusce.",
+      "area": "back",
+      "time": "🕒 30",
+      "price": 80,
+      "img": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/spa-woman-female-enjoying-massage-in-spa-centre-royalty-free-image-492676582-1549988720.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Lomilomi massage",
+      "description": "Risus in hendrerit gravida rutrum. Tristique et egestas quis ipsum suspendisse ultrices gravida dictum fusce.",
+      "area": "back",
+      "time": 20,
+      "price": 70,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwyA7EvWlI9i21-ySlGrRe0S7lHJ_MNftgOA&usqp=CAU"
+    },
+    {
+      "id": 3,
+      "name": "Peeling odłamkami płyty CD",
+      "description": "Risus in hendrerit gravida rutrum. Tristique et egestas quis ipsum suspendisse ultrices gravida dictum fusce.",
+      "area": "face",
+      "time": 15,
+      "price": 50,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuWVU2WuQy0cFdpeLlXxws94OERgojYk9W2g&usqp=CAU"
+    },
+    {
+      "id": 4,
+      "name": "Pedicure woskiem z USB",
+      "description": "Risus in hendrerit gravida rutrum. Tristique et egestas quis ipsum suspendisse ultrices gravida dictum fusce.",
+      "area": "legs",
+      "time": 25,
+      "price": 100,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCrwANpyguL1k3siWTs5cRimdoVtv7jTOzFA&usqp=CAU"
+    },
+    {
+      "id": 5,
+      "name": "Manicure analogowo-cyfrowy",
+      "description": "Risus in hendrerit gravida rutrum. Tristique et egestas quis ipsum suspendisse ultrices gravida dictum fusce.",
+      "area": "hands",
+      "time": 45,
+      "price": 150,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcEe6_S87RS6DJjxFZIiDbgT3AicwuPo9hEw&usqp=CAU"
+    },
+    {
+      "id": 6,
+      "name": "Kąpiel w gorącej kawie",
+      "description": "Risus in hendrerit gravida rutrum. Tristique et egestas quis ipsum suspendisse ultrices gravida dictum fusce.",
+      "area": "body",
+      "time": 60,
+      "price": 200,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfuObYCU5bRAYiljxpCSp5DDEaEOxDCPWwzw&usqp=CAU"
+    },
+    {
+      "id": 7,
+      "name": "Depilacja dyskiem twardym",
+      "description": "Risus in hendrerit gravida rutrum. Tristique et egestas quis ipsum suspendisse ultrices gravida dictum fusce.",
+      "area": "body",
+      "time": 45,
+      "price": 120,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSvVlKCS76CZAJ8KGuLoPHwiq9W5WXme_nFQ&usqp=CAU"
+    }
+  ]
+}
